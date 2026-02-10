@@ -1,13 +1,11 @@
 version: 2
 updates:
-  # For JavaScript (npm)
   - package-ecosystem: "npm"
-    directory: "/" # root folder
+    directory: "/"
     schedule:
       interval: "daily"
 
-  # For Python (pip)
   - package-ecosystem: "pip"
-    directory: "/" # or "/backend" if in a subfolder
+    directory: "/"
     schedule:
       interval: "daily"
