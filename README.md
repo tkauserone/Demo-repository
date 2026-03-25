@@ -1,6 +1,6 @@
 # Demo-repository
 
-This is a repository for the advanced Github masterclass lab, where we explore GigHib features like repositories, pull requests, commit messages and more.
+This is a repository for the advanced GitHub masterclass lab, where we explore GigHib features like repositories, pull requests, commit messages and more.
 
 ## Getting Started
 
